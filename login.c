@@ -1,8 +1,3 @@
-//このコードは、Youtubeにて公開された動画で使用したコードです。
-//このコードの改変・再公開は自由ですが、それによる責任は一切とりません。ご了承ください。
-//以下のURLがYoutubeの動画のリンクになります。↓
-//https://www.youtube.com/watch?v=EcXHAthK-7s
-
 #include <stdio.h>
 #include <string.h>
 
